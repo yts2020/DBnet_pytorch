@@ -1,0 +1,2 @@
+# DBnet_pytorch
+参考论文以及大佬的代码自己复现了简单版本的DBnet，用于OCR文本检测
