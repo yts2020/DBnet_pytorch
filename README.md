@@ -3,3 +3,6 @@
 
 DBnet网络结构
 ![DBnet](https://pic2.zhimg.com/v2-df1f216dc9442f4a474ef604ab2e9154_1440w.jpg?source=172ae18b)
+
+仿真数据上的预测效果
+![预测结果](https://github.com/yts2020/DBnet_pytorch/blob/master/result/result.jpg)
